@@ -32,4 +32,4 @@ while True:
         exit()
 
     else:
-        print("Wrong input!!")
+        print("Wrong input!! Please Enter Correct Number")
